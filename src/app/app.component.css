@@ -1,0 +1,19 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(23, 2, 43);
+    color: aliceblue;
+    padding: 10px 50px;
+}
+
+p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+main {
+    height: 84vh;
+}
