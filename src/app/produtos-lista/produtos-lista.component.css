@@ -1,8 +1,46 @@
-h1 {
+h1, h2 {
+    margin: 20px;
     text-align: center;
-}
+    font-size: 100;
+
+    }
 
 .titulo{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #050f6a;
+    color: #624E88;
+    text-align: center;
+    font-size: 40px;
+}
+
+.btn {
+    margin: 4px 4px;
+    margin-top: 6px;
+    
+
+}
+
+
+/* tabela */
+
+.table {
+    width: 90%;
+    margin: auto; /*centralizando a tabela*/
+    border-collapse: collapse; /*remove espaços entre as bordas*/
+    border-radius: 5%;
+    }
+
+.table th, table td {
+    text-align: center;
+    padding: 12px; /*para espaçamento interno */
+}
+
+.table th {
+    background-color: #8967B3;
+    
+}
+
+.btn-info {
+    background-color: #CB80AB;
+    color: #ffffff;
+    border: #8967B3;
 }

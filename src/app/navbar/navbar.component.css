@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #624E88;
+    border: solid 2px  #624E88;
+}
+
+.nav.navbar{
+    background-color: #624E88;
+    border-bottom: 2px #CB80AB;
+}
+
+.navbar-nav .nav-link {
+    color: #E6D9A2;
+    font-size: 18px;
+    padding: 10px 15px;
+}
+
+.btn {
+    background-color: #CB80AB;
+    color: #E6D9A2;
+    border: #8967B3;
+}
+
+.btn:hover {
+    background-color: #8967B3;
+}

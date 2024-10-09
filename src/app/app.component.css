@@ -1,11 +1,14 @@
 footer {
     display: flex;
+    position: fixed;
     justify-content: space-between;
     flex-direction: row;
     align-items: center;
-    background-color: rgb(23, 2, 43);
-    color: aliceblue;
+    background-color: #8967B3; /* cor do fundo do footer*/
+    text-align: center;
+    color: #E6D9A2;
     padding: 10px 50px;
+    box-shadow: 0 -2px 5px #CB80AB;
 }
 
 p {

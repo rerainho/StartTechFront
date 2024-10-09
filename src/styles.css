@@ -1,5 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
 
-body {
-    background-color: black;
+body,html {
+    margin: 0%;
+    
+    background-color: #E6D9A2
 }
+
+.container {
+    margin-top: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #8967B3; /* cor do fundo do footer*/
+    text-align: center;
+    padding: 10px 0; /*espaçamento interno*/
+    box-shadow: 0 -2px 5px #CB80AB;
+    }

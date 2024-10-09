@@ -1,0 +1,44 @@
+/*Centraliza o container*/
+.container-form {
+    background-color: #8967B3;
+    border: 2px solid #624E88; /*borda ao redor do formulário*/
+    border-radius: 8px; /*borda arredondada*/
+    padding: 20px;
+    margin: 30px auto; /*Centraliza o container na tela*/
+    width: 50%;
+    box-shadow: 0 4px 8px #CB80AB; /* sombra suave atrás*/
+}
+
+/*ajuste do título*/
+.container-form h2 {
+    text-align: center;
+    font-size: 26px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.container-form .form-group {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.container-form .btn{
+    display: block;
+    width: 20%;
+    height: 40px;
+    margin: 20px auto; /* centralizando o botão*/
+    font-size: 15px;
+    background-color: #CB80AB;
+    color: #E6D9A2;
+    border: none;
+    border-radius: 8px;
+}
+
+.container-form .btn:hover {
+    background-color: #624E88;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
