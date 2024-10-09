@@ -31,7 +31,7 @@ h1, h2 {
 
 .table th, table td {
     text-align: center;
-    padding: 12px; /*para espaçamento interno */
+    padding: 12px; /*para espaçamento interno na tabela */
 }
 
 .table th {
